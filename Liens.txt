@@ -1,0 +1,15 @@
+Liens utiles
+
+Mes Kernels Kaggle
+https://www.kaggle.com/elisead/gbr-yolox-train-infer
+https://www.kaggle.com/elisead/gbr-yolov5-train
+
+Inspirés des kernels :
+https://www.kaggle.com/awsaf49/great-barrier-reef-yolov5-train
+https://www.kaggle.com/remekkinas/yolox-inference-on-kaggle-for-cots-lb-0-507
+https://www.kaggle.com/awsaf49/great-barrier-reef-yolov5-infer
+https://www.kaggle.com/kartik2khandelwal/data-analysis-and-prediction
+
+
+Lien Git
+https://github.com/EliAd152693/OpenClasseroomsProjet8
